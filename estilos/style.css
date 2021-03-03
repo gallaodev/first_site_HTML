@@ -13,7 +13,7 @@ img.lado{
 }
 
 img.outro_lado{
-    float: inline-end;
+    float:none;
 }
 
 main{
