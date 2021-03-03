@@ -5,12 +5,12 @@
 }
 
 body{
-    background-color: white;
+    background-color:white;
 }
 
 main{
-    background-color: black;
-    width: 500px;
+    background-color:black;
+    width: 75%;
     margin:auto;
     box-shadow: 3px 3px 15px white; 
 }
