@@ -1,0 +1,16 @@
+*{
+    font-family:monospace;
+    font-size: 16px;
+    color: green;
+}
+
+body{
+    background-color: black;
+}
+
+main{
+    background-color: grey;
+    width: 500px;
+    margin:auto;
+    box-shadow: 3px 3px 15px white; 
+}
