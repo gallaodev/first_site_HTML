@@ -8,9 +8,17 @@ body{
     background-color:white;
 }
 
+img.lado{
+    float:none;
+}
+
+img.outro_lado{
+    float: inline-end;
+}
+
 main{
     background-color:black;
-    width: 100%;
+    width: 60%%;
     margin:auto;
     box-shadow: 3px 3px 15px white; 
 }
