@@ -1,13 +1,13 @@
 var nome = null
 var result = null
 var result = window.confirm("Voce quer entrar ?") //Botao ok e nao ok
-if (result === true){
+/*if (result === true){
     window.alert(`Voce escolheu entrar obrigado!`) 
 }
 else{window.alert(`Ok sem problemas!`) 
      window.location.href = ("http://pudim.com.br/")
 } 
- 
+*/ 
 var nome = window.prompt("Qual o seu nome?") //Botao para pegar o nome
 if ( nome === 'gallao'){ 
     window.alert('Voce tem permissao, e voce esta entrando no meu site, ' + nome + '!') //Cria uma mensagem em um box na tela
